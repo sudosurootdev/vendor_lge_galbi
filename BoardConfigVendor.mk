@@ -14,3 +14,6 @@
 # limitations under the License.
 
 USE_CAMERA_STUB := false
+
+PRODUCT_PACKAGES := \
+       com.google.android.GoogleCamera-1
