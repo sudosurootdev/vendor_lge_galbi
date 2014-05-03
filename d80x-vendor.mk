@@ -25,11 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/galbi/d80x/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
     vendor/lge/galbi/d80x/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/lge/galbi/d80x/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/lge/galbi/d80x/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/lge/galbi/d80x/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/lge/galbi/d80x/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/lge/galbi/d80x/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/lge/galbi/d80x/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lge/galbi/d80x/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/lge/galbi/d80x/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/lge/galbi/d80x/vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_I2C_NCD_Signed_ORC.ncd:system/vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_I2C_NCD_Signed_ORC.ncd \

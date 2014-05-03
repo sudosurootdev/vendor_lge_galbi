@@ -256,4 +256,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/galbi/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/lge/galbi/proprietary/vendor/lib/libmmcamera_tuning.so:system/vendor/lib/libmmcamera_tuning.so \
     vendor/lge/galbi/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
-    vendor/lge/galbi/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so
+    vendor/lge/galbi/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
+    vendor/lge/galbi/d80x/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/lge/galbi/d80x/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/lge/galbi/d80x/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/galbi/d80x/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/lge/galbi/d80x/lib/libgps.utils.so:system/lib/libgps.utils.so
